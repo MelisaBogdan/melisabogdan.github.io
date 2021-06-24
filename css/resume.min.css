@@ -52,6 +52,7 @@ h2 {
 }
 .list-icons .list-inline-item i:hover {
   color: #bd5d38;
+ 
 }
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 600;
@@ -119,10 +120,10 @@ section.resume-section .resume-item .resume-date {
   }
 }
 .bg-primary {
-  background-color: #3897bd !important;
+  background-color: #e7a854 !important;
 }
 .text-primary {
-  color: #38adbd !important;
+  color: #cea03c !important;
 }
 a {
   color: #bd5d38;
